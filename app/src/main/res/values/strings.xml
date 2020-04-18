@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rent a Car</string>
+    <string name="enterprise">Enterprise</string>
+    <string name="hurtz">Hurtz</string>
+    <string name="budget">Budget</string>
+    <string name="rentalcar">Rentalcar.com</string>
+    <string name="alamo">Alamo</string>
+    <string name="national">National</string>
+
+    <string name="rentBTN">Rent a Car Now!</string>
+</resources>
